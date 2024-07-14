@@ -1,6 +1,10 @@
 // two number of the addition 
 
-a = 7;
-b = 5;
+let a = 7 ;
+let b = 5;
+let c = 5;
+let d = 4;
+let add = a + b + c + d;
 
-console.log(`a + b = ${a+b}`);
+
+console.log(`a + b + c + d = ${add}`);
